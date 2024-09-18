@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  TEAM NAME : TECHIE TRIBE
-Participants : Mihir Vyas. Dhruv Vyas, Bhavika Chhatbar & Jay Joshi
+Participants : Mihir Vyas, Dhruv Vyas, Bhavika Chhatbar & Jay Joshi
 
 This repo contains webapp and AI model
 -
